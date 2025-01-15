@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS exemplo_db;
+USE exemplo_db;
+
+CREATE TABLE IF NOT EXISTS clientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255),
+    email VARCHAR(255)
+);
