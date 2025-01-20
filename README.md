@@ -7,7 +7,7 @@ Este vídeo demonstra como otimizar o processamento de dados no **Apache NiFi**,
 <!-- https://www.youtube.com/@renato-coelho -->
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="imagens/thumbnail/thumbnail-nifi-arquivos-parquet-github.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/uaetHem3uV8" target="_blank"><img src="imagens/thumbnail/thumbnail-nifi-arquivos-parquet-github.png" alt="Vídeo de apresentação"></a>
 </p>
 
 ## Requisitos
